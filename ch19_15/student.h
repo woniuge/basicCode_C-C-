@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-#include<string>
+#include<cstring>
 #ifndef STUDENT
 #define STUDENT
 
